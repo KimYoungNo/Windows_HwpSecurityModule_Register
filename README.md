@@ -6,7 +6,7 @@
 ***
 
 **HwpSecurityModule.dll**
-- 아래아 한글 보안 모듈 라이브러리 (from: [한컴디벨로퍼 개발가이드](https://developer.hancom.com/hwpautomation))
+- 아래아 한글 보안 모듈 라이브러리 (from: [한컴디벨로퍼 개발가이드](https://developer.hancom.com/hwpautomation)) <br/><br/>
 
 **Register.bat**
 - HwpSecurityModule을 레지스트리에 등록하는 batch 명령어 파일 <br/><br/>
