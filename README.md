@@ -1,5 +1,6 @@
 # Windows HwpSecurityModule Register
 
+#### 본 리포지토리는 [한글과컴퓨터](https://www.hancom.com/)의 공식 리포지토리가 아닙니다.
 #### 본 리포지토리가 야기할 수 있는 보안 취약점에 대해 배포자([@KimYoungNo](https://github.com/KimYoungNo))는 책임지지 않습니다.
 
 ***
