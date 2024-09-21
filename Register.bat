@@ -5,6 +5,6 @@ reg add ^
 	/v "HwpSecurityModule" ^
 	/t REG_SZ ^
 	/d "%~dp0HwpSecurityModule.dll" ^
-	/f
+	/f >nul 2>&1
 	
 EXIT
